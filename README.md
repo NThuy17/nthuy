@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang chủ | lớp sv</title>
-</head>
-<body>
-    <h1 style="text-align: center;color: pink;">TRANG CHỦ </h1>"
-    <p>đây là trang chủ</p>
-    <p style="text-align: center;"><img src="./img/456396330_491737430276798_230068803327900659_n.jpg">
-    </p>
-</body>
-</html>
+#  nthuy
